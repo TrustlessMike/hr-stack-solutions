@@ -1,0 +1,53 @@
+# HR Stack Solutions - LLMs.txt
+# AI crawler accessibility map for hrstacksolutions.com
+
+## Site Info
+Name: HR Stack Solutions
+URL: https://hrstacksolutions.com
+Description: Independent reviews and comparisons of HR software for small businesses under 100 employees
+Founder: Malik
+Founded: 2026
+
+## Content Sections
+
+### Pillar Pages
+- /pillars/payroll-software - Payroll software reviews and comparisons
+- /pillars/hris-systems - HRIS systems for small business
+- /pillars/benefits-admin - Benefits administration platforms
+- /pillars/peo-eor - PEO and Employer of Record services
+- /pillars/time-tracking - Employee time tracking solutions
+- /pillars/employee-wellness - Employee wellness platforms
+
+### Blog Articles
+- /blog/best-payroll-under-50-employees - Best payroll software for small teams
+- /blog/best-hris-under-100-employees - Top HRIS for growing companies
+- /blog/cheapest-payroll-2026 - Affordable payroll options 2026
+- /blog/gusto-vs-onpay - Gusto vs OnPay comparison
+- /blog/bamboohr-vs-gusto - BambooHR vs Gusto head-to-head
+- /blog/justworks-vs-trinet - Justworks vs TriNet PEO comparison
+- /blog/affordable-hr-startups - HR software for startups on a budget
+- /blog/employee-onboarding-software - Best onboarding platforms
+- /blog/best-benefits-admin - Benefits administration software
+- /blog/best-peo-under-50-employees - PEO for small business
+
+### Legal Pages
+- /privacy - Privacy Policy
+- /terms - Terms of Service
+- /affiliate-disclosure - Affiliate Disclosure
+- /about - About Us
+
+## Affiliate Programs
+We review and link to: Gusto, BambooHR, Justworks, OnPay, TriNet, ADP, Rippling, Deel, Zenefits, 15Five
+
+## Structured Data
+This site implements JSON-LD schema:
+- WebSite
+- Organization
+- Article
+- Product (review)
+- FAQPage
+- BreadcrumbList
+
+## Contact
+Email: malik@stack-labs.net
+Business: Stack Labs LLC
